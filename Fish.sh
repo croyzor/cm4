@@ -96,3 +96,4 @@ echo fish92
 echo fish93
 echo fish94
 echo fish95
+echo fish96
