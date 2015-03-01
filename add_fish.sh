@@ -7,5 +7,4 @@ echo "echo $FISH_STR" >> Fish.sh
 git add .
 git commit -a  -m "added $FISH_STR"
 git push origin master
-echo "a"
 
