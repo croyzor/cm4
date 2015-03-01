@@ -70,3 +70,4 @@ echo fish66
 echo fish67
 echo fish68
 echo fish69
+echo fish70
