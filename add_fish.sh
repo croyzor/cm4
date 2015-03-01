@@ -1,4 +1,5 @@
-#!/bin/bash	
+#!/bin/bash
+. ~/.keychain/`/bin/hostname`-sh	
 cd /Users/ross/git/cm4/cm4
 FISH_NUMBER="$(/usr/bin/awk 'END {print $NF}' Fish.sh | /usr/bin/sed 's/[^0-9]//g')"
 FISH_NUMBER=$((FISH_NUMBER+1))
