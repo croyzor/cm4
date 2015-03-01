@@ -88,3 +88,4 @@ echo fish84
 echo fish85
 echo fish86
 echo fish87
+echo fish88
