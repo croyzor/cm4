@@ -102,3 +102,4 @@ echo fish98
 echo fish99
 echo fish100
 echo fish101
+echo fish102
