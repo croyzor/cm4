@@ -7,3 +7,4 @@ echo fish3
 echo fish4
 echo fish5
 echo fish6
+echo fish7
