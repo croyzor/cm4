@@ -26,3 +26,4 @@ echo fish22
 echo fish23
 echo fish24
 echo fish25
+echo fish26
