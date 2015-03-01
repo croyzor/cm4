@@ -6,5 +6,5 @@ FISH_STR="fish$FISH_NUMBER"
 /bin/echo "echo $FISH_STR" >> Fish.sh
 /Applications/Xcode.app/Contents/Developer/usr/bin/git add .
 /Applications/Xcode.app/Contents/Developer/usr/bin/git commit  -m "added $FISH_STR"
-/Applications/Xcode.app/Contents/Developer/usr/bin/git push 
+/usr/bin/git push 
 
