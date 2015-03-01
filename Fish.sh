@@ -106,3 +106,4 @@ echo fish102
 echo fish103
 echo fish104
 echo fish105
+echo fish106
