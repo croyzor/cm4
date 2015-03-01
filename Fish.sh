@@ -36,3 +36,4 @@ echo fish32
 echo fish33
 echo fish34
 echo fish35
+echo fish36
