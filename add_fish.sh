@@ -4,7 +4,7 @@ FISH_NUMBER="$(/usr/bin/awk 'END {print $NF}' Fish.sh | /usr/bin/sed 's/[^0-9]//
 FISH_NUMBER=$((FISH_NUMBER+1))
 FISH_STR="fish$FISH_NUMBER"
 /bin/echo "echo $FISH_STR" >> Fish.sh
-/Applications/Xcode.app/Contents/Developer/usr/bin/git add .
-/Applications/Xcode.app/Contents/Developer/usr/bin/git commit  -m "added $FISH_STR"
+/usr/bin/git add .
+/usr/bin/git commit  -m "added $FISH_STR"
 /usr/bin/git push origin master 
 
